@@ -1,0 +1,330 @@
+[
+    {
+        "id": 0,
+        "country": "Mexico",
+        "city": "San Miguel de Allende",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fsan-miguel-de-allende-mexico-01-BESTCITIESWB21.jpg",
+        "language": "Spanish",
+        "info": "San Miguel de Allende, a colonial-era city in Mexico’s central highlands, is known for its baroque Spanish architecture, thriving arts scene and cultural festivals. In the city’s historic, cobblestoned center lies the neo-Gothic church Parroquia de San Miguel Arcángel, whose dramatic pink towers rise above the main plaza, El Jardín. The Templo de San Francisco church nearby has an 18th-century churrigueresque facade."
+    },
+    {
+        "id": 1,
+        "country": "Japan",
+        "city": "Kyoto",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fkyoto-japan-05-BESTCITIESWB21.jpg",
+        "language": "Japanese",
+        "info": "Kyoto, once the capital of Japan, is a city on the island of Honshu. It's famous for its numerous classical Buddhist temples, as well as gardens, imperial palaces, Shinto shrines and traditional wooden houses. It’s also known for formal traditions such as kaiseki dining, consisting of multiple courses of precise dishes, and geisha, female entertainers often found in the Gion district. "
+    },
+    {
+        "id": 2,
+        "country": "Italy",
+        "city": "Florence",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fflorence-italy-06-BESTCITIESWB21.jpg",
+        "language": "Italian",
+        "info": "Florence, capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture. One of its most iconic sights is the Duomo, a cathedral with a terracotta-tiled dome engineered by Brunelleschi and a bell tower by Giotto. The Galleria dell'Accademia displays Michelangelo’s “David” sculpture. The Uffizi Gallery exhibits Botticelli’s “The Birth of Venus” and da Vinci’s “Annunciation.” "
+    },
+    {
+        "id": 3,
+        "country": "Spain",
+        "city": "San Sebastián",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fsan-sebastian-spain-15-BESTCITIESWB21.jpg",
+        "language": "Spanish",
+        "info": "San Sebastián is a resort town on the Bay of Biscay in Spain’s mountainous Basque Country. It’s known for Playa de la Concha and Playa de Ondarreta, beaches framed by a picturesque bayfront promenade, and world-renowned restaurants helmed by innovative chefs. In its cobblestoned old town (Parte Vieja), upscale shops neighbor vibrant pintxo bars pairing local wines with bite-size regional specialties. "
+    },
+    {
+        "id": 4,
+        "country": "Italy",
+        "city": "Trieste",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Ftrieste-italy-21-BESTCITIESWB21.jpg",
+        "language": "Italian",
+        "info": "Trieste is the capital city of the Friuli Venezia Giulia region in northeast Italy. A port city, it occupies a thin strip of land between the Adriatic coast and Slovenia’s border on the limestone-dominated Karst Plateau. Italian, Austro-Hungarian and Slovenian influences are all evident in its layout, which encompasses a medieval old city and a neoclassical Austrian quarter. "
+    },
+    {
+        "id": 5,
+        "country": "South Korea",
+        "city": "Seoul",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fseoul-korea-23-BESTCITIESWB21.jpg",
+        "language": "Korean",
+        "info": "Seoul, the capital of South Korea, is a huge metropolis where modern skyscrapers, high-tech subways and pop culture meet Buddhist temples, palaces and street markets. Notable attractions include futuristic Dongdaemun Design Plaza, a convention hall with curving architecture and a rooftop park; Gyeongbokgung Palace, which once had more than 7,000 rooms; and Jogyesa Temple, site of ancient locust and pine trees "
+    },
+    {
+        "id": 6,
+        "country": "Guatemala",
+        "city": "Antigua Guatemala",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fantigua-guatemala-24-BESTCITIESWB21.jpg",
+        "language": "Spanish",
+        "info": "Antigua is a small city surrounded by volcanoes in southern Guatemala. It’s renowned for its Spanish colonial buildings, many of them restored following a 1773 earthquake that ended Antigua’s 200-year reign as Guatemala’s colonial capital. Notable architectural examples include baroque La Merced church. It’s an integral part of the city’s famous Semana Santa, a holy week with parades and rituals. "
+    },
+    {
+        "id": 7,
+        "country": "Portugal",
+        "city": "Porto",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fporto-portugal-25-BESTCITIESWB21.jpg",
+        "language": "Portuguese",
+        "info": "Porto is a coastal city in northwest Portugal known for its stately bridges and port wine production. In the medieval Ribeira (riverside) district, narrow cobbled streets wind past merchants’ houses and cafes. São Francisco Church is known for its lavish baroque interior with ornate gilded carvings. The palatial 19th-century Palácio de Bolsa, formerly a stock market, was built to impress potential European investors. "
+    },
+    {
+        "id": 8,
+        "country": "Taiwan",
+        "city": "Taipei",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Ftaipei-taiwan-11-BESTCITIESWB21.jpg",
+        "language": "Taiwanese Mandarin",
+        "info": "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market. "
+    },
+    {
+        "id": 9,
+        "country": "Mexico",
+        "city": "Oaxaca",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Foaxaca-mexico-08-BESTCITIESWB21.jpg",
+        "language": "Spanish",
+        "info": "The city of Oaxaca de Juárez, or Oaxaca City or simply Oaxaca, is the capital and largest city of the eponymous Mexican state Oaxaca. It is the municipal seat for the surrounding Municipality of Oaxaca. "
+    },
+    {
+        "id": 10,
+        "country": "Greece",
+        "city": "Santorini",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F04%2Fsantorini-13-ISWORLDWB21.jpg",
+        "language": "Greek",
+        "info": "Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape. The whitewashed, cubiform houses of its 2 principal towns, Fira and Oia, cling to cliffs above an underwater caldera (crater). They overlook the sea, small islands to the west and beaches made up of black, red and white lava pebbles. "
+    },
+    {
+        "id": 11,
+        "country": "Italy",
+        "city": "Sicily",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F04%2Fsicily-06-ISWORLDWB21.jpg",
+        "language": "Italian",
+        "info": "Sicily, the largest Mediterranean island, is just off the toe of Italy's boot. Its rich history is reflected in sites like the Valley of the Temples, the well-preserved ruins of 7 monumental, Doric-style Greek temples, and in the Byzantine mosaics at the Cappella Palatina, a former royal chapel in capital city Palermo. On Sicily s eastern edge is Mount Etna, one of Europes highest active volcanoes. "
+    },
+    {
+        "id": 12,
+        "country": "Portugal",
+        "city": "Madeira",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F03%2Fmadeira-04-ISWORLDWB21.jpg",
+        "language": "Portuguese",
+        "info": "Madeira, an autonomous region of Portugal, is an archipelago comprising 4 islands off the northwest coast of Africa. It is known for its namesake wine and warm, subtropical climate. The main island of Madeira is volcanic, green and rugged, with high cliffs, pebbly beaches and settlements on deltas of the Fajã River. Capital Funchal has botanic gardens and is known for its harbor and a large New Year's fireworks show. "
+    },
+    {
+        "id": 13,
+        "country": "England",
+        "city": "London",
+        "img": "https://london.ac.uk/sites/default/files/styles/max_1300x1300/public/2018-10/london-aerial-cityscape-river-thames_1.jpg?itok=6LenFxuz",
+        "language": "English",
+        "info": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city. "
+    },
+    {
+        "id": 14,
+        "country": "Greece",
+        "city": "Folegandros",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F03%2Ffolegandros-02-ISWORLDWB21.jpg",
+        "language": "Greek",
+        "info": "Folegandros is a small Greek island in the Aegean Sea that, together with Sikinos, Ios, Anafi and Santorini, forms the southern part of the Cyclades. Its surface area is 32.216 square kilometres and it has 765 inhabitants. "
+    },
+    {
+        "id": 15,
+        "country": "Italy",
+        "city": "Sardinia",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F04%2Fsardinia-16-ISWORLDWB21.jpg",
+        "language": "Italian",
+        "info": "Sardinia is a large Italian island in the Mediterranean Sea. It has nearly 2,000km of coastline, sandy beaches and a mountainous interior crossed with hiking trails. Its rugged landscape is dotted with thousands of nuraghi – mysterious Bronze Age stone ruins shaped like beehives. One of the largest and oldest nuraghi is Su Nuraxi in Barumini, dating to 1500 B.C. "
+    },
+    {
+        "id": 16,
+        "country": "Greece",
+        "city": "Milos",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F04%2Fmilos-01-ISWORLDWB21.jpg",
+        "language": "Greek",
+        "info": "Milos or Melos is a volcanic Greek island in the Aegean Sea, just north of the Sea of Crete. Milos is the southwesternmost island in the Cyclades group. The Venus de Milo and the Asclepius of Milos were both found on the island, as were a Poseidon and an archaic Apollo now in Athens. "
+    },
+    {
+        "id": 17,
+        "country": "Mexico",
+        "city": "Mexico City",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Fmexico-city-mexico-07-BESTCITIESWB21.jpg",
+        "language": "Spanish",
+        "info": "Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo. "
+    },
+    {
+        "id": 18,
+        "country": "Portugal",
+        "city": "Madeira",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F03%2Fmadeira-04-ISWORLDWB21.jpg",
+        "language": "Portuguese",
+        "info": "A marriage of neo-Gothic and Spanish-colonial "
+    },
+    {
+        "id": 19,
+        "country": "Italy",
+        "city": "Rome",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Frome-italy-14-BESTCITIESWB21.jpg",
+        "language": "Italian",
+        "info": "Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. "
+    },
+    {
+        "id": 20,
+        "country": "Japan",
+        "city": "Tokyo",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F10%2Ftokyo-japan-19-BESTCITIESWB21.jpg",
+        "language": "Japanese",
+        "info": "Special wards are a special form of municipalities in Japan under the 1947 Local Autonomy Law. They are city-level wards: primary subdivisions of a prefecture with municipal autonomy largely comparable to other forms of municipalities. "
+    },
+    {
+        "id": 21,
+        "country": "Spain",
+        "city": "Mallorca",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fmajorca-08-EUROISWB21.jpg",
+        "language": "Spanish",
+        "info": "Mallorca (Majorca) is one of Spain's Balearic Islands in the Mediterranean. It's known for beach resorts, sheltered coves, limestone mountains and Roman and Moorish remains. Capital Palma has nightlife, the Moorish Almudaina royal palace and 13th-century Santa María Cathedral. Stone-built villages include Pollença, with its art galleries and music festival, and hillside Fornalutx, surrounded by citrus plantations. "
+    },
+    {
+        "id": 22,
+        "country": "Scotland",
+        "city": "Skye and the Hebrides",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fskye-and-the-hebrides-09-EUROISWB21.jpg",
+        "language": "English",
+        "info": "The Isle of Skye, connected to Scotland's northwest coast by bridge, is known for its rugged landscapes, picturesque fishing villages and medieval castles. The largest island in the Inner Hebrides archipelago, it has an indented coastline of peninsulas and narrow lochs, radiating out from a mountainous interior. The town of Portree, a base for exploring the island, features harbourside pubs and boutiques. "
+    },
+    {
+        "id": 23,
+        "country": "Spain",
+        "city": "Ibiza",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2016%2F04%2FTL0516FRM01-Formentera0416.jpg",
+        "language": "Spanish",
+        "info": "Ibiza is one of the Balearic islands, an archipelago of Spain in the Mediterranean Sea. It's well known for the lively nightlife in Ibiza Town and Sant Antoni, where major European nightclubs have summer outposts. It’s also home to quiet villages, yoga retreats and beaches, from Platja d'en Bossa, lined with hotels, bars and shops, to quieter sandy coves backed by pine-clad hills found all around the coast. "
+    },
+    {
+        "id": 24,
+        "country": "Italy",
+        "city": "Capri",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fcapri-12-EUROISWB21.jpg",
+        "language": "Italian",
+        "info": "Capri, an island in Italy’s Bay of Naples, is famed for its rugged landscape, upscale hotels and shopping, from designer fashions to limoncello and handmade leather sandals. One of its best-known natural sites is the Blue Grotto, a dark cavern where the sea glows electric blue, the result of sunlight passing through an underwater cave. In summer, Capri's dramatic, cove-studded coastline draws many yachts. "
+    },
+    {
+        "id": 25,
+        "country": "Greece",
+        "city": "Mykonos",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fmykonos-13-EUROISWB21.jpg",
+        "language": "Greek",
+        "info": "Mykonos is an island in the Cyclades group in the Aegean Sea. It's popularly known for its summer party atmosphere. Beaches such as Paradise and Super Paradise have bars that blare thumping music. Massive dance clubs attract world-renowned DJs and typically stay open well past dawn. Iconic landmarks include a row of 16th-century windmills, which sit on a hill above Mykonos town. "
+    },
+    {
+        "id": 26,
+        "country": "Greece",
+        "city": "Crete",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fcrete-14-EUROISWB21.jpg",
+        "language": "Greek",
+        "info": "Crete is the largest and most populous of the Greek islands, the 88th largest island in the world and the fifth largest island in the Mediterranean Sea, after Sicily, Sardinia, Cyprus, and Corsica. Crete rests approximately 160 km south of the Greek mainland. It has an area of 8,336 km² and a coastline of 1,046 km. "
+    },
+    {
+        "id": 27,
+        "country": "Portugal",
+        "city": "Azores",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fazores-16-EUROISWB21.jpg",
+        "language": "Portuguese",
+        "info": "The Azores, an autonomous region of Portugal, are an archipelago in the mid-Atlantic. The islands are characterized by dramatic landscapes, fishing villages, green pastures and hedgerows of blue hydrangeas. São Miguel, the largest, has lake-filled calderas and the Gorreana Tea Plantation. Pico is home to the 2,351m Mt. Pico and vineyards sheltered by boulders. "
+    },
+    {
+        "id": 28,
+        "country": "France",
+        "city": "Corsica",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fcorsica-18-EUROISWB21.jpg",
+        "language": "French",
+        "info": "Corsica, a mountainous Mediterranean island, presents a mix of stylish coastal towns, dense forest and craggy peaks (Monte Cinto is the highest). Nearly half the island falls within a park whose hiking trails include the challenging GR 20. Its beaches range from busy Pietracorbara to remote Saleccia and Rondinara. It's been part of France since 1768, but retains a distinct Italian culture. "
+    },
+    {
+        "id": 29,
+        "country": "Spain",
+        "city": "Canary Islands",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fcanary-islands-19-EUROISWB21.jpg",
+        "language": "Spanish",
+        "info": "The Canary Islands, a Spanish archipelago off the coast of northwestern Africa, are rugged volcanic isles known for their black- and white-sand beaches. Tenerife, the largest island, is dominated by the sometimes-snowy active volcano Mt. Teide, which has its own astronomical observatory and is part of Teide National Park. Tenerife hosts a huge pre-Lent Carnival in the capital, Santa Cruz de Tenerife. "
+    },
+    {
+        "id": 30,
+        "country": "France",
+        "city": "Nice",
+        "img": "https://lp-cms-production.imgix.net/2019-06/3cb45f6e59190e8213ce0a35394d0e11-nice.jpg",
+        "language": "French",
+        "info": "Nice, capital of the Alpes-Maritimes department on the French Riviera, sits on the pebbly shores of the Baie des Anges. Founded by the Greeks and later a retreat for 19th-century European elite, the city has also long attracted artists. Former resident Henri Matisse is honored with a career-spanning collection of paintings at Musée Matisse. Musée Marc Chagall features some of its namesake's major religious works. "
+    },
+    {
+        "id": 31,
+        "country": "Greece",
+        "city": "Rhodes",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Frhodes-17-EUROISWB21.jpg",
+        "language": "Greek",
+        "info": "Rhodes, the largest of Greece’s Dodecanese islands, is known for its beach resorts, ancient ruins and remnants of its occupation by the Knights of St. John during the Crusades. The city of Rhodes has an Old Town featuring the medieval Street of the Knights and the castlelike Palace of the Grand Masters. Captured by the Ottomans and then held by the Italians, the palace is now a history museum. "
+    },
+    {
+        "id": 32,
+        "country": "Mexico",
+        "city": "Cancún",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F07%2F13%2Fcancun-mexico-coastline-CANCUNNOW0720.jpg",
+        "language": "Spanish",
+        "info": "Cancún, a Mexican city on the Yucatán Peninsula bordering the Caribbean Sea, is known for its beaches, numerous resorts and nightlife. It’s composed of 2 distinct areas: the more traditional downtown area, El Centro, and Zona Hotelera, a long, beachfront strip of high-rise hotels, nightclubs, shops and restaurants. Cancun is also a famed destination for students during universities’ spring break period. "
+    },
+    {
+        "id": 33,
+        "country": "Peru",
+        "city": "Cusco",
+        "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/b5/67.jpg",
+        "language": "Spanish",
+        "info": "Cusco, a city in the Peruvian Andes, was once capital of the Inca Empire, and is now known for its archaeological remains and Spanish colonial architecture. Plaza de Armas is the central square in the old city, with arcades, carved wooden balconies and Incan wall ruins. The baroque Santo Domingo Convent was built on top of the Incan Temple of the Sun (Qoricancha), and has archaeological remains of Inca stonework. "
+    },
+    {
+        "id": 34,
+        "country": "Ecuador",
+        "city": "Galápagos Islands",
+        "img": "https://images.newscientist.com/wp-content/uploads/2019/03/27172602/newscientist.27.3.19.gettyimages-576829559.jpg",
+        "language": "Spanish",
+        "info": "The Galápagos Islands is a volcanic archipelago in the Pacific Ocean. It's considered one of the world's foremost destinations for wildlife-viewing. A province of Ecuador, it lies about 1,000km off its coast. Its isolated terrain shelters a diversity of plant and animal species, many found nowhere else. Charles Darwin visited in 1835, and his observation of Galápagos' species later inspired his theory of evolution. "
+    },
+    {
+        "id": 35,
+        "country": "Brazil",
+        "city": "Rio de Janeiro",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2016%2F08%2Frio-PANOVID0816-2000.jpg",
+        "language": "Portuguese",
+        "info": "Rio de Janeiro is a huge seaside city in Brazil, famed for its Copacabana and Ipanema beaches, 38m Christ the Redeemer statue atop Mount Corcovado and for Sugarloaf Mountain, a granite peak with cable cars to its summit. The city is also known for its sprawling favelas (shanty towns). Its raucous Carnaval festival, featuring parade floats, flamboyant costumes and samba dancers, is considered the world’s largest. "
+    },
+    {
+        "id": 36,
+        "country": "Argentina",
+        "city": "Perito Moreno Glacier",
+        "img": "https://cdn.getyourguide.com/img/location/5d08b2f278e3e.jpeg/88.jpg",
+        "language": "Spanish",
+        "info": "The Perito Moreno Glacier is a glacier located in Los Glaciares National Park in southwest Santa Cruz Province, Argentina. It is one of the most important tourist attractions in the Argentine Patagonia. "
+    },
+    {
+        "id": 37,
+        "country": "Colombia",
+        "city": "Isla Barú",
+        "img": "https://www.cronista.com/files/image/298/298542/5ffe0da1d2ca1.jpg",
+        "language": "Spanish",
+        "info": "The Isla Barú or Isla de Barú is a former peninsula south of Cartagena, Colombia. It was cut off from the mainland by the Canal del Dique, but is still connected by bridge. It projects out southwest from the southern end of Cartagena towards the Islas del Rosario. "
+    },
+    {
+        "id": 38,
+        "country": "Panama",
+        "city": "Bocas del Toro Province",
+        "img": "https://images.squarespace-cdn.com/content/v1/562c3f4ce4b04d9c2eaa0a75/1523474418455-2SN1EKHGX7S1AP0VNNG3/bocus_dragobeach.jpg",
+        "language": "Spanish",
+        "info": "Bocas del Toro Town, or just Bocas Town, is the capital of Bocas del Toro Province, in Panama. It's at the southern tip of Isla Colón, in the Caribbean Sea. Nearby beaches include sheltered Starfish Beach, to the northwest. Bluff Beach, on the east coast, is known for its strong surf. To the north, rocky Bird Island is home to the rare red-billed tropicbird. In town, artisans sell local crafts in Simón Bolívar Park. "
+    },
+    {
+        "id": 39,
+        "country": "Philippines",
+        "city": "Palawan",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F08%2F22%2Fpalawan-05-ASIAISWB21.jpg",
+        "language": "Philippines",
+        "info": "Palawan, officially the Province of Palawan, is an archipelagic province of the Philippines that is located in the region of Mimaropa. It is the largest province in the country in terms of total area of 14,649.73 km². The capital city is Puerto Princesa. "
+    },
+    {
+        "id": 40,
+        "country": "Spain",
+        "city": "Madrid",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F06%2F08%2Fmadrid-spain-MADRIDTG0621.jpg",
+        "language": "Spanish",
+        "info": "Madrid, Spain's central capital, is a city of elegant boulevards and expansive, manicured parks such as the Buen Retiro. It’s renowned for its rich repositories of European art, including the Prado Museum’s works by Goya, Velázquez and other Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic weaponry. "
+    }
+]
