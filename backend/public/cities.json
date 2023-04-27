@@ -326,5 +326,13 @@
         "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2021%2F06%2F08%2Fmadrid-spain-MADRIDTG0621.jpg",
         "language": "Spanish",
         "info": "Madrid, Spain's central capital, is a city of elegant boulevards and expansive, manicured parks such as the Buen Retiro. It’s renowned for its rich repositories of European art, including the Prado Museum’s works by Goya, Velázquez and other Spanish masters. The heart of old Hapsburg Madrid is the portico-lined Plaza Mayor, and nearby is the baroque Royal Palace and Armory, displaying historic weaponry. "
+    },
+    {
+        "id": 41,
+        "country": "Italy",
+        "city": "Cinque Terre",
+        "img": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/07b0078af3cab92b128c7f2fa7a97043f4d0a3ff/big-2ae05368b6d01410ce07d6d224e2269a.jpg",
+        "language": "Italian",
+        "info": "Cinque Terre is a string of centuries-old seaside villages on the rugged Italian Riviera coastline. In each of the 5 towns, colorful houses and vineyards cling to steep terraces, harbors are filled with fishing boats and trattorias turn out seafood specialties along with the Liguria region’s famous sauce, pesto. The Sentiero Azzurro cliffside hiking trail links the villages and offers sweeping sea vistas. "
     }
 ]
